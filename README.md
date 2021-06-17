@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachinyadav1hk14
+- 👋 Hi, I’m Sachin Yadav
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... HTML, CSS, JavaScript, Node.js, React.js,  Git and GitHub
 - 💞️ I’m looking to collaborate on ... Projects related to Frontend Development
